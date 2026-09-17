@@ -191,4 +191,4 @@ testing.
 
 Nusi Parthasaradhi Reddy
 
-Cybersecurity Trainee | LinkedIn: 
+Cybersecurity Trainee | LinkedIn: https://www.linkedin.com/in/nusi-parthasaradhi-reddy-13a6a8247/
