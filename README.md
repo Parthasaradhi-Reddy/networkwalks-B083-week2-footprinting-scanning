@@ -89,7 +89,7 @@ First, I used Whois to retrieve public available registration details of a domai
 
 Command: whois networkwalks.com
 
-Evidence collection:
+Evidence collection: ![](whois.png)
 
 ## WhatWeb
 
@@ -97,7 +97,7 @@ Next, I Used WhatWeb to identify technologies used by websites, including web se
 
 Command: whatWeb networkwalks.com
 
-Evidence collection:
+Evidence collection: ![](whatweb.png)
 
 ## Nslookup
 
@@ -105,14 +105,14 @@ Next, I Used Nslookup to perform DNS queries against the target domain.
 
 Command: nslookup networkwalks.com
 
-Evidence collection:
+Evidence collection: ![](ns-lookup.png)
 
 ## CURL
 Next, I used to send HTTP/HTTPS requests and inspect the web server response. Used Curl with the -I option to inspect the HTTP response headers. This provided additional information about the web application and exposed the WordPress REST API endpoint /wp-json/.
 
 Command: curl -I https://networkwalks.com
 
-Evidence collection:
+Evidence collection: ![](curl-cmd.png)
 
 ## Wafw00f
 
@@ -120,7 +120,7 @@ Next, I Used Wafw00f to determine whether a Web Application Firewall was protect
 
 Command: wafw00f networkwalks.com
 
-Evidence Collection: 
+Evidence Collection: ![](WAF-cmd.png)
 
 ## DNSRecon
 
@@ -148,7 +148,7 @@ The example results also included four MAC addresses.
 
 After completing the scan, I opened the Topology section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
-Evidence Collection:
+Evidence Collection: ![]()  ![]()
 
 ---
 
