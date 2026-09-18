@@ -148,7 +148,7 @@ The example results also included four MAC addresses.
 
 After completing the scan, I opened the Topology section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
-Evidence Collection: ![]()  ![]()
+Evidence Collection: ![](Zenmap-scan.png)    ![](Zenmap-topology.png)
 
 ---
 
